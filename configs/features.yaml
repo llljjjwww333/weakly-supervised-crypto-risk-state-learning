@@ -1,0 +1,36 @@
+window_sizes:
+  short: 24
+  medium: 48
+  long: 72
+
+feature_columns:
+  - log_return_1
+  - log_return_4
+  - log_return_24
+  - rolling_vol_24
+  - rolling_vol_72
+  - high_low_range
+  - open_close_change
+  - volume_zscore_24
+  - quote_volume_zscore_24
+  - trade_count_zscore_24
+  - ema_gap_12_48
+  - ema_gap_24_72
+  - rolling_skew_24
+  - rolling_kurt_24
+  - up_bar_ratio_24
+  - down_bar_ratio_24
+  - max_drawdown_72
+  - trend_strength_24
+  - taker_buy_ratio
+  - volume_price_corr_24
+
+label_thresholds:
+  bull_return_24_min: 0.01
+  bull_return_72_min: 0.02
+  bear_return_24_max: -0.01
+  bear_return_72_max: -0.02
+  ema_gap_pos_min: 0.002
+  ema_gap_neg_max: -0.002
+  max_drawdown_bull_max: -0.03
+  max_drawdown_bear_max: -0.06

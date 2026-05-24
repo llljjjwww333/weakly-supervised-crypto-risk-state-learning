@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1280"
+   height="720"
+   overflow="hidden"
+   version="1.1"
+   id="svg89"
+   sodipodi:docname="fig1.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview89"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.4833333"
+     inkscape:cx="794.83271"
+     inkscape:cy="564.64684"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g89" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="clip0">
+      <rect
+         x="0"
+         y="0"
+         width="1280"
+         height="720"
+         id="rect1" />
+    </clipPath>
+  </defs>
+  <g
+     clip-path="url(#clip0)"
+     id="g89">
+    <rect
+       x="-0.31543797"
+       y="3.4698176"
+       width="1269.2937"
+       height="720"
+       fill="#ffffff"
+       id="rect2"
+       style="stroke-width:0.995809" />
+    <path
+       d="M 7.002478,371 H 1258.521"
+       stroke="#9ca9b7"
+       stroke-width="2.45774"
+       stroke-linecap="round"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path3" />
+    <path
+       d="M73 219.5C73 213.149 78.1487 208 84.5 208 90.8513 208 96 213.149 96 219.5 96 225.851 90.8513 231 84.5 231 78.1487 231 73 225.851 73 219.5Z"
+       fill="#4F6788"
+       fill-rule="evenodd"
+       id="path4" />
+    <text
+       fill="#ffffff"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14px"
+       id="text4"
+       x="81.305023"
+       y="225.16106">1</text>
+    <text
+       fill="#223142"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="700"
+       font-size="22"
+       transform="translate(46.4631 263)"
+       id="text5">Market data</text>
+    <path
+       d="M45.5179 264.5 152.518 264.5"
+       stroke="#CFD7DF"
+       stroke-width="1.40441"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path5" />
+    <path
+       d="M61.5178 336.5C78.2889 314.197 99.2528 319.076 119.518 301.652 139.783 284.227 157.952 309.318 177.518 290.5"
+       stroke="#C9D1DB"
+       stroke-width="1.40441"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path6" />
+    <path
+       d="M66.5255 328.5 66.5255 306.5"
+       stroke="#5F9B78"
+       stroke-width="1.40441"
+       stroke-linecap="round"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path7" />
+    <path
+       d="M62 315.333C62 314.597 62.5969 314 63.3333 314L68.6667 314C69.4031 314 70 314.597 70 315.333L70 324.667C70 325.403 69.4031 326 68.6667 326L63.3333 326C62.5969 326 62 325.403 62 324.667Z"
+       fill="#6EAF82"
+       fill-rule="evenodd"
+       id="path8" />
+    <path
+       d="M82.5255 321.5 82.5255 295.5"
+       stroke="#5F9B78"
+       stroke-width="1.40441"
+       stroke-linecap="round"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path9" />
+    <path
+       d="M78 304.5C78 303.672 78.6715 303 79.4999 303L85.5001 303C86.3285 303 87 303.672 87 304.5L87 316.5C87 317.328 86.3285 318 85.5001 318L79.4999 318C78.6715 318 78 317.328 78 316.5Z"
+       fill="#6EAF82"
+       fill-rule="evenodd"
+       id="path10" />
+    <path
+       d="M98.5255 311.5 98.5255 282.5"
+       stroke="#CF746D"
+       stroke-width="1.40441"
+       stroke-linecap="round"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path11" />
+    <path
+       d="M94 293.5C94 292.672 94.6715 292 95.4999 292L101.5 292C102.328 292 103 292.672 103 293.5L103 306.5C103 307.328 102.328 308 101.5 308L95.4999 308C94.6715 308 94 307.328 94 306.5Z"
+       fill="#D9857D"
+       fill-rule="evenodd"
+       id="path12" />
+    <path
+       d="M115.525 319.5 115.525 292.5"
+       stroke="#CF746D"
+       stroke-width="1.40441"
+       stroke-linecap="round"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path13" />
+    <path
+       d="M110 302.5C110 301.672 110.672 301 111.5 301L117.5 301C118.328 301 119 301.672 119 302.5L119 314.5C119 315.328 118.328 316 117.5 316L111.5 316C110.672 316 110 315.328 110 314.5Z"
+       fill="#D9857D"
+       fill-rule="evenodd"
+       id="path14" />
+    <path
+       d="M131.525 309.5 131.525 281.5"
+       stroke="#5F9B78"
+       stroke-width="1.40441"
+       stroke-linecap="round"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path15" />
+    <path
+       d="M127 291.333C127 290.597 127.597 290 128.333 290L133.667 290C134.403 290 135 290.597 135 291.333L135 305.667C135 306.403 134.403 307 133.667 307L128.333 307C127.597 307 127 306.403 127 305.667Z"
+       fill="#6EAF82"
+       fill-rule="evenodd"
+       id="path16" />
+    <path
+       d="M147.525 303.5 147.525 275.5"
+       stroke="#5F9B78"
+       stroke-width="1.40441"
+       stroke-linecap="round"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path17" />
+    <path
+       d="M143 285.333C143 284.597 143.597 284 144.333 284L149.667 284C150.403 284 151 284.597 151 285.333L151 299.667C151 300.403 150.403 301 149.667 301L144.333 301C143.597 301 143 300.403 143 299.667Z"
+       fill="#6EAF82"
+       fill-rule="evenodd"
+       id="path18" />
+    <path
+       d="M163.525 312.5 163.525 286.5"
+       stroke="#CF746D"
+       stroke-width="1.40441"
+       stroke-linecap="round"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path19" />
+    <path
+       d="M159 295.333C159 294.597 159.597 294 160.333 294L165.667 294C166.403 294 167 294.597 167 295.333L167 307.667C167 308.403 166.403 309 165.667 309L160.333 309C159.597 309 159 308.403 159 307.667Z"
+       fill="#D9857D"
+       fill-rule="evenodd"
+       id="path20" />
+    <text
+       fill="#223142"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="400"
+       font-size="15"
+       transform="translate(50.6777 389)"
+       id="text20">Binance spot, 1 h</text>
+    <text
+       fill="#5D6A79"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="400"
+       font-size="13"
+       transform="translate(50.6777 409)"
+       id="text21">20 features, 48 h window</text>
+    <path
+       d="M310 219.5C310 213.149 315.149 208 321.5 208 327.851 208 333 213.149 333 219.5 333 225.851 327.851 231 321.5 231 315.149 231 310 225.851 310 219.5Z"
+       fill="#4F6788"
+       fill-rule="evenodd"
+       id="path21" />
+    <text
+       fill="#ffffff"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14px"
+       id="text22"
+       x="318.18011"
+       y="225.79193">2</text>
+    <text
+       fill="#223142"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="700"
+       font-size="22"
+       transform="translate(286.148 263)"
+       id="text23">Proxy labels</text>
+    <path
+       d="M285.553 264.5 383.553 264.5"
+       stroke="#CFD7DF"
+       stroke-width="1.40441"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path23" />
+    <text
+       fill="#223142"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="400"
+       font-size="15"
+       transform="translate(275.23 323)"
+       id="text24">past</text>
+    <text
+       fill="#223142"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="400"
+       font-size="15"
+       transform="translate(299.396 323)"
+       id="text25">-</text>
+    <text
+       fill="#223142"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="400"
+       font-size="15"
+       transform="translate(304.396 323)"
+       id="text26">only rule</text>
+    <text
+       fill="#5D6A79"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="400"
+       font-size="13"
+       transform="translate(258.798 348)"
+       id="text27">return, vol, EMA gap, drawdown</text>
+    <path
+       d="M237.5 385.5C237.5 378.873 242.873 373.5 249.5 373.5L291.5 373.5C298.128 373.5 303.5 378.873 303.5 385.5L303.5 385.5C303.5 392.128 298.127 397.5 291.5 397.5L249.5 397.5C242.873 397.5 237.5 392.127 237.5 385.5Z"
+       stroke="#D96B61"
+       stroke-width="0.702257"
+       stroke-miterlimit="8"
+       fill="#FFF7F4"
+       fill-rule="evenodd"
+       id="path27" />
+    <path
+       d="M307.5 385.5C307.5 378.873 312.873 373.5 319.5 373.5L371.5 373.5C378.128 373.5 383.5 378.873 383.5 385.5L383.5 385.5C383.5 392.128 378.127 397.5 371.5 397.5L319.5 397.5C312.873 397.5 307.5 392.127 307.5 385.5Z"
+       stroke="#E5AD4F"
+       stroke-width="0.702257"
+       stroke-miterlimit="8"
+       fill="#FFFAF0"
+       fill-rule="evenodd"
+       id="path28" />
+    <path
+       d="M387.5 386.5C387.5 379.873 392.873 374.5 399.5 374.5L435.5 374.5C442.128 374.5 447.5 379.873 447.5 386.5L447.5 386.5C447.5 393.128 442.128 398.5 435.5 398.5L399.5 398.5C392.873 398.5 387.5 393.128 387.5 386.5Z"
+       stroke="#70A975"
+       stroke-width="0.702257"
+       stroke-miterlimit="8"
+       fill="#F5FBF7"
+       fill-rule="evenodd"
+       id="path29" />
+    <text
+       fill="#223142"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="700"
+       font-size="13"
+       transform="translate(258.034 390)"
+       id="text29">bear</text>
+    <text
+       fill="#223142"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="700"
+       font-size="13"
+       transform="translate(325.343 390)"
+       id="text30">neutral</text>
+    <text
+       fill="#223142"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="700"
+       font-size="13"
+       transform="translate(406.309 390)"
+       id="text31">bull</text>
+    <path
+       d="m 554.51015,219.31544 c 0,-6.075 5.149,-11 11.5,-11 6.351,0 11.5,4.925 11.5,11 0,6.075 -5.149,11 -11.5,11 -6.351,0 -11.5,-4.925 -11.5,-11 z"
+       fill="#4f6788"
+       fill-rule="evenodd"
+       id="path31" />
+    <text
+       fill="#ffffff"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14px"
+       id="text32"
+       x="562.75793"
+       y="225.0537">3</text>
+    <text
+       fill="#223142"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="700"
+       font-size="22"
+       transform="translate(504.349 265)"
+       id="text33">Candidate models</text>
+    <path
+       d="M507.59 265.5 651.59 265.5"
+       stroke="#CFD7DF"
+       stroke-width="1.40441"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path33" />
+    <text
+       fill="#223142"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="400"
+       font-size="15"
+       transform="translate(501.065 328)"
+       id="text34">Rule / LogReg / HistGB</text>
+    <text
+       fill="#223142"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="400"
+       font-size="15"
+       transform="translate(500.031 351)"
+       id="text35">HMM / GRU / LSTM / TCN</text>
+    <path
+       d="M493.588 386.5 533.588 386.5 533.588 401.5 493.588 401.5Z"
+       stroke="#8EA0B3"
+       stroke-width="1.26404"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path35" />
+    <path
+       d="M562.588 401.5 594.589 401.5 594.589 416.5 562.588 416.5Z"
+       stroke="#6E8DB4"
+       stroke-width="1.26404"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path36" />
+    <path
+       d="M572.588 392.5 604.589 392.5 604.589 408.5 572.588 408.5Z"
+       stroke="#6E8DB4"
+       stroke-width="1.26404"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path37" />
+    <path
+       d="M583.588 384.5 615.589 384.5 615.589 399.5 583.588 399.5Z"
+       stroke="#6E8DB4"
+       stroke-width="1.26404"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path38" />
+    <path
+       d="M633.5 396.5C633.5 390.977 637.977 386.5 643.5 386.5 649.023 386.5 653.5 390.977 653.5 396.5 653.5 402.023 649.023 406.5 643.5 406.5 637.977 406.5 633.5 402.023 633.5 396.5Z"
+       stroke="#D96B61"
+       stroke-width="1.26404"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path39" />
+    <path
+       d="M661.5 396.5C661.5 390.977 665.753 386.5 671 386.5 676.247 386.5 680.5 390.977 680.5 396.5 680.5 402.023 676.247 406.5 671 406.5 665.753 406.5 661.5 402.023 661.5 396.5Z"
+       stroke="#D96B61"
+       stroke-width="1.26404"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path40" />
+    <path
+       d="M689.5 396.5C689.5 390.977 693.977 386.5 699.5 386.5 705.023 386.5 709.5 390.977 709.5 396.5 709.5 402.023 705.023 406.5 699.5 406.5 693.977 406.5 689.5 402.023 689.5 396.5Z"
+       stroke="#D96B61"
+       stroke-width="1.26404"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path41" />
+    <path
+       d="M652.59 395.5 661.129 395.5M681.052 395.5 689.591 395.5"
+       stroke="#D96B61"
+       stroke-width="1.26404"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path42" />
+    <path
+       d="M819 219.5C819 213.149 823.925 208 830 208 836.075 208 841 213.149 841 219.5 841 225.851 836.075 231 830 231 823.925 231 819 225.851 819 219.5Z"
+       fill="#4F6788"
+       fill-rule="evenodd"
+       id="path43" />
+    <text
+       fill="#ffffff"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14px"
+       id="text43"
+       x="826.4303"
+       y="224.76579">4</text>
+    <text
+       fill="#223142"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="700"
+       font-size="22"
+       transform="translate(772.293 263)"
+       id="text44">Three</text>
+    <text
+       fill="#223142"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="700"
+       font-size="22"
+       transform="translate(828.226 263)"
+       id="text45">-</text>
+    <text
+       fill="#223142"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="700"
+       font-size="22"
+       transform="translate(835.56 263)"
+       id="text46">axis evaluation</text>
+    <path
+       d="M771.625 264.5 932.625 264.5"
+       stroke="#CFD7DF"
+       stroke-width="1.40441"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path46" />
+    <path
+       d="m 786.55369,336.39263 c 0,-11.046 8.731,-20 19.5,-20 10.77,0 19.5,8.954 19.5,20 0,11.046 -8.73,20 -19.5,20 -10.769,0 -19.5,-8.954 -19.5,-20 z"
+       stroke="#d96b61"
+       stroke-width="1.40441"
+       stroke-miterlimit="8"
+       fill="#fff7f5"
+       fill-rule="evenodd"
+       id="path47" />
+    <path
+       d="m 844.18456,336.65438 c 0,-11.046 8.954,-20 20,-20 11.046,0 20,8.954 20,20 0,11.046 -8.954,20 -20,20 -11.046,0 -20,-8.954 -20,-20 z"
+       stroke="#e5ad4f"
+       stroke-width="1.40441"
+       stroke-miterlimit="8"
+       fill="#fffaf1"
+       fill-rule="evenodd"
+       id="path48" />
+    <path
+       d="m 903.70807,335.89263 c 0,-10.77 8.954,-19.5 20,-19.5 11.046,0 20,8.73 20,19.5 0,10.77 -8.954,19.5 -20,19.5 -11.046,0 -20,-8.73 -20,-19.5 z"
+       stroke="#70a975"
+       stroke-width="1.40441"
+       stroke-miterlimit="8"
+       fill="#f5fbf7"
+       fill-rule="evenodd"
+       id="path49" />
+    <text
+       fill="#223142"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="700"
+       font-size="14"
+       transform="translate(800.039 341)"
+       id="text49">C</text>
+    <text
+       fill="#223142"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14px"
+       id="text50"
+       x="859.01581"
+       y="341.31543">T</text>
+    <text
+       fill="#223142"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14px"
+       id="text51"
+       x="919.31555"
+       y="341.31543">S</text>
+    <text
+       fill="#5d6a79"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13px"
+       id="text52"
+       x="799.40814"
+       y="387.10071">fit</text>
+    <text
+       fill="#5d6a79"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13px"
+       id="text53"
+       x="841.17706"
+       y="385.78525">stability</text>
+    <text
+       fill="#5d6a79"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="13px"
+       id="text54"
+       x="898.18158"
+       y="386.78525">risk semantics</text>
+    <text
+       fill="#687483"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="12px"
+       id="text55"
+       x="758.4635"
+       y="406.41614">kept separate rather than merged into one score</text>
+    <path
+       d="m 1061.3154,221.1007 c 0,-6.075 4.92,-11 11,-11 6.08,0 11,4.925 11,11 0,6.075 -4.92,11 -11,11 -6.08,0 -11,-4.925 -11,-11 z"
+       fill="#4f6788"
+       fill-rule="evenodd"
+       id="path55" />
+    <text
+       fill="#ffffff"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="14px"
+       id="text56"
+       x="1069.21"
+       y="226.15437">5</text>
+    <text
+       fill="#223142"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="700"
+       font-size="22"
+       transform="translate(1023.47 265)"
+       id="text57">Risk</text>
+    <text
+       fill="#223142"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="700"
+       font-size="22"
+       transform="translate(1066.13 265)"
+       id="text58">-</text>
+    <text
+       fill="#223142"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="700"
+       font-size="22"
+       transform="translate(1073.47 265)"
+       id="text59">state interpretation</text>
+    <path
+       d="M1020.66 264.5 1202.66 264.5"
+       stroke="#CFD7DF"
+       stroke-width="1.40441"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path59" />
+    <path
+       d="m 1018.0236,328 c 0,-6.904 5.6,-12.5 12.5,-12.5 h 49 c 6.9,0 12.5,5.596 12.5,12.5 v 0 c 0,6.904 -5.6,12.5 -12.5,12.5 -9.8107,0 -31.5741,0 -49,0 -6.9,0 -12.5,-5.596 -12.5,-12.5 z"
+       stroke="#d96b61"
+       stroke-width="0.702257"
+       stroke-miterlimit="8"
+       fill="#fff7f4"
+       fill-rule="evenodd"
+       id="path60"
+       sodipodi:nodetypes="ssssssss" />
+    <path
+       d="m 1097.3389,328.31544 c 0,-6.904 5.6,-12.5 12.5,-12.5 h 55 c 6.9,0 12.5,5.596 12.5,12.5 v 0 c 0,6.904 -5.6,12.5 -12.5,12.5 h -55 c -6.9,0 -12.5,-5.596 -12.5,-12.5 z"
+       stroke="#e5ad4f"
+       stroke-width="0.702257"
+       stroke-miterlimit="8"
+       fill="#fffaf0"
+       fill-rule="evenodd"
+       id="path61" />
+    <path
+       d="M1184.5 328C1184.5 321.096 1190.1 315.5 1197 315.5L1244 315.5C1250.9 315.5 1256.5 321.096 1256.5 328L1256.5 328C1256.5 334.904 1250.9 340.5 1244 340.5L1197 340.5C1190.1 340.5 1184.5 334.904 1184.5 328Z"
+       stroke="#70A975"
+       stroke-width="0.702257"
+       stroke-miterlimit="8"
+       fill="#F5FBF7"
+       fill-rule="evenodd"
+       id="path62" />
+    <text
+       fill="#223142"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="13px"
+       id="text62"
+       x="1026.2664"
+       y="333">high</text>
+    <text
+       fill="#223142"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="13px"
+       id="text63"
+       x="1051.3972"
+       y="333.31543">-</text>
+    <text
+       fill="#223142"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="13px"
+       id="text64"
+       x="1057.3043"
+       y="333.31543">risk</text>
+    <text
+       fill="#223142"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="13px"
+       id="text65"
+       x="1108.4889"
+       y="333">transition</text>
+    <text
+       fill="#223142"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="13px"
+       id="text66"
+       x="1195.3993"
+       y="333">low</text>
+    <text
+       fill="#223142"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="13px"
+       id="text67"
+       x="1215.8456"
+       y="333.31543">-</text>
+    <text
+       fill="#223142"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="700"
+       font-size="13px"
+       id="text68"
+       x="1221.7628"
+       y="333.63089">risk</text>
+    <text
+       fill="#223142"
+       font-family="'Times New Roman', 'Times New Roman_MSFontService', sans-serif"
+       font-weight="400"
+       font-size="15px"
+       id="text69"
+       x="1036.2135"
+       y="389.15439">risk semantics &gt; return semantics</text>
+    <text
+       fill="#5D6A79"
+       font-family="Times New Roman,Times New Roman_MSFontService,sans-serif"
+       font-weight="400"
+       font-size="13"
+       transform="translate(1024.85 408)"
+       id="text70">best label fit is not always the final selector</text>
+    <path
+       d="M5.50005 264.999C5.50005 247.05 20.0501 232.5 37.9985 232.5L176.002 232.5C193.95 232.5 208.5 247.05 208.5 264.999L208.5 394.989C208.5 412.937 193.95 427.487 176.002 427.487L37.9985 427.487C20.0501 427.487 5.50005 412.937 5.50005 394.989Z"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path73" />
+    <path
+       d="M220.5 265.001C220.5 247.051 235.051 232.5 253.001 232.5L430.999 232.5C448.949 232.5 463.5 247.051 463.5 265.001L463.5 394.999C463.5 412.949 448.949 427.5 430.999 427.5L253.001 427.5C235.051 427.5 220.5 412.949 220.5 394.999Z"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path74" />
+    <path
+       d="M482.5 265.001C482.5 247.051 497.051 232.5 515.001 232.5L687.999 232.5C705.949 232.5 720.5 247.051 720.5 265.001L720.5 394.999C720.5 412.949 705.949 427.5 687.999 427.5L515.001 427.5C497.051 427.5 482.5 412.949 482.5 394.999Z"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path75" />
+    <path
+       d="M734.5 265.834C734.5 247.977 748.977 233.5 766.834 233.5L969.166 233.5C987.024 233.5 1001.5 247.977 1001.5 265.834L1001.5 395.166C1001.5 413.024 987.024 427.5 969.166 427.5L766.834 427.5C748.977 427.5 734.5 413.024 734.5 395.166Z"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path76" />
+    <path
+       d="m 1014.5041,266.5411 c 0,-17.7786 14.1795,-32.19137 31.669,-32.19137 h 182.6538 c 17.4895,0 31.669,14.41277 31.669,32.19137 v 128.76342 c 0,17.7786 -14.1795,32.19137 -31.669,32.19137 h -182.6538 c -17.4895,0 -31.669,-14.41277 -31.669,-32.19137 z"
+       stroke="#000000"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       fill="none"
+       fill-rule="evenodd"
+       id="path77"
+       style="stroke-width:1.00823" />
+    <path
+       d="M279.75 428 289.767 440.25 283.642 440.25C275.051 463.437 243.67 478.9 209.437 476.814 239.12 475.005 263.943 460.355 271.392 440.25L265.267 440.25Z"
+       fill="#AEAEAE"
+       fill-rule="evenodd"
+       id="path78" />
+    <path
+       d="M203.312 477C164.48 477 133 455.062 133 428L145.25 428C145.25 455.062 176.73 477 215.562 477Z"
+       fill="#8C8C8C"
+       fill-rule="evenodd"
+       id="path79" />
+    <path
+       d="M209.438 476.814C239.12 475.005 263.943 460.355 271.392 440.25L265.267 440.25 279.75 428 289.767 440.25 283.642 440.25C275.627 461.884 247.625 477 215.562 477L203.312 477C164.48 477 133 455.062 133 428L145.25 428C145.25 455.062 176.73 477 215.562 477"
+       stroke="#042433"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path80" />
+    <path
+       d="M551.75 428 561.767 440.25 555.642 440.25C547.051 463.437 515.67 478.9 481.437 476.814 511.12 475.005 535.943 460.355 543.392 440.25L537.267 440.25Z"
+       fill="#AEAEAE"
+       fill-rule="evenodd"
+       id="path81" />
+    <path
+       d="M475.312 477C436.48 477 405 455.062 405 428L417.25 428C417.25 455.062 448.73 477 487.562 477Z"
+       fill="#8C8C8C"
+       fill-rule="evenodd"
+       id="path82" />
+    <path
+       d="M481.438 476.814C511.12 475.005 535.943 460.355 543.392 440.25L537.267 440.25 551.75 428 561.767 440.25 555.642 440.25C547.627 461.884 519.625 477 487.562 477L475.312 477C436.48 477 405 455.062 405 428L417.25 428C417.25 455.062 448.73 477 487.562 477"
+       stroke="#042433"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path83" />
+    <path
+       d="M805.75 428 815.767 440.25 809.642 440.25C801.051 463.437 769.67 478.9 735.438 476.814 765.12 475.005 789.943 460.355 797.392 440.25L791.267 440.25Z"
+       fill="#AEAEAE"
+       fill-rule="evenodd"
+       id="path84" />
+    <path
+       d="M729.312 477C690.48 477 659 455.062 659 428L671.25 428C671.25 455.062 702.73 477 741.562 477Z"
+       fill="#8C8C8C"
+       fill-rule="evenodd"
+       id="path85" />
+    <path
+       d="M735.438 476.814C765.12 475.005 789.943 460.355 797.392 440.25L791.267 440.25 805.75 428 815.767 440.25 809.642 440.25C801.627 461.884 773.625 477 741.562 477L729.312 477C690.48 477 659 455.062 659 428L671.25 428C671.25 455.062 702.73 477 741.562 477"
+       stroke="#042433"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path86" />
+    <path
+       d="M1086.75 428 1096.78 440.25 1090.66 440.25C1082.12 463.448 1050.94 478.913 1016.94 476.811 1046.39 474.99 1071.02 460.344 1078.41 440.25L1072.28 440.25Z"
+       fill="#AEAEAE"
+       fill-rule="evenodd"
+       id="path87" />
+    <path
+       d="M1010.81 477C972.256 477 941 455.062 941 428L953.25 428C953.25 455.062 984.506 477 1023.06 477Z"
+       fill="#8C8C8C"
+       fill-rule="evenodd"
+       id="path88" />
+    <path
+       d="M1016.94 476.811C1046.39 474.99 1071.02 460.344 1078.41 440.25L1072.28 440.25 1086.75 428 1096.78 440.25 1090.66 440.25C1082.7 461.884 1054.9 477 1023.06 477L1010.81 477C972.256 477 941 455.062 941 428L953.25 428C953.25 455.062 984.506 477 1023.06 477"
+       stroke="#042433"
+       stroke-width="2"
+       stroke-miterlimit="8"
+       fill="none"
+       fill-rule="evenodd"
+       id="path89" />
+  </g>
+</svg>
