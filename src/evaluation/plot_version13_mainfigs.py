@@ -39,7 +39,7 @@ STATE_LABELS = ["Bear", "Neutral", "Bull"]
 
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Plot Version13 main manuscript figures.")
+    parser = argparse.ArgumentParser(description="Plot the main release figures.")
     parser.add_argument("--summary_dir", default="experiments/summary")
     parser.add_argument("--output_dir", default="figures/main")
     return parser.parse_args()
@@ -48,7 +48,7 @@ def parse_args() -> argparse.Namespace:
 def _style() -> None:
     sns.set_theme(
         style="whitegrid",
-        context="paper",
+        context="notebook",
         font="DejaVu Serif",
         rc={
             "figure.titlesize": 13.0,

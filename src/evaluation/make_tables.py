@@ -10,7 +10,7 @@ from src.utils.io import ensure_dir
 
 MANIFEST_PATH = Path("experiments/summary/results_manifest.csv")
 CSV_DIR = ensure_dir("experiments/summary/tables")
-TEX_DIR = ensure_dir("KBS/generated_tables")
+TEX_DIR = ensure_dir("experiments/summary/generated_tables")
 
 
 def load_manifest() -> pd.DataFrame:
@@ -362,7 +362,7 @@ def build_checkpoint_selection(df: pd.DataFrame) -> None:
     tex = render_table(
         [
             r"\begin{table*}[t]",
-            r"\caption{Checkpoint-selection diagnostic for the BTCUSDT GRU. Main window uses the paper's default split (train 2021--2023, validation 2024, test 2025-01 to 2026-04). Rolling window uses train 2021--2022, validation 2023, and test 2024. Significant risk checks report nominal significant-risk layering counts under the same protocol used elsewhere in the paper.}",
+            r"\caption{Checkpoint-selection diagnostic for the BTCUSDT GRU. Main window uses the default split (train 2021--2023, validation 2024, test 2025-01 to 2026-04). Rolling window uses train 2021--2022, validation 2023, and test 2024. Significant risk checks report nominal significant-risk layering counts under the same audit protocol used elsewhere in this repository.}",
             r"\label{tab:checkpoint-selection}",
             r"\centering",
             r"\scriptsize",

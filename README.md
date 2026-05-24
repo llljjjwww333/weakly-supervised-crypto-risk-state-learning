@@ -2,13 +2,10 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](./requirements.txt)
 [![Data](https://img.shields.io/badge/Data-Binance%20Spot%201h-F3BA2F?style=flat-square&logo=binance&logoColor=black)](./data/README.md)
-[![Paper](https://img.shields.io/badge/Paper-KBS%20Manuscript-0A7E8C?style=flat-square)](./paper/Manuscript.pdf)
 [![Last Commit](https://img.shields.io/github/last-commit/llljjjwww333/weakly-supervised-crypto-risk-state-learning?style=flat-square)](https://github.com/llljjjwww333/weakly-supervised-crypto-risk-state-learning)
 [![Repo Size](https://img.shields.io/github/repo-size/llljjjwww333/weakly-supervised-crypto-risk-state-learning?style=flat-square)](https://github.com/llljjjwww333/weakly-supervised-crypto-risk-state-learning)
 
-Code, configuration, manuscript source, and publication figures for the paper:
-
-**Evaluating Weakly Supervised Cryptocurrency Risk-State Learning: When Label Fit, Stability, and Semantics Disagree**
+Code, configuration, scripts, and figures for weakly supervised crypto risk-state learning experiments.
 
 This repository focuses on the reproducible core of the project:
 
@@ -16,7 +13,6 @@ This repository focuses on the reproducible core of the project:
 - feature engineering and weak-label construction
 - baseline and temporal model training
 - semantic, stability, and framework-comparison evaluation
-- manuscript source and compiled PDF used for the KBS submission draft
 
 It intentionally does **not** include raw market data, processed parquet files, trained checkpoints, or large experiment outputs.
 
@@ -28,8 +24,7 @@ It intentionally does **not** include raw market data, processed parquet files, 
 configs/        experiment and asset configuration
 data/           notes on the expected local data layout
 experiments/    note on omitted outputs and how to regenerate them
-figures/main/   publication figures used by the manuscript
-paper/          LaTeX manuscript source and compiled PDF
+figures/main/   summary figures and diagnostic plots
 scripts/        helper scripts for reruns and figure regeneration
 src/            data, feature, model, and evaluation code
 requirements.txt
@@ -41,7 +36,6 @@ Recommended:
 
 - Python 3.10+
 - `pip install -r requirements.txt`
-- LaTeX with `xelatex` if you want to rebuild the manuscript PDF
 
 ## Quick Start
 
@@ -84,27 +78,11 @@ python -m src.evaluation.evaluate_risk_state_semantics
 python -m src.evaluation.run_bootstrap_block_sensitivity
 ```
 
-## Rebuilding the Paper
-
-The manuscript lives in [paper/Manuscript.tex](./paper/Manuscript.tex).
-
-Compile from the `paper/` directory:
-
-```bash
-xelatex Manuscript.tex
-bibtex Manuscript
-xelatex Manuscript.tex
-xelatex Manuscript.tex
-```
-
-The figure paths are already wired to `../figures/main/`.
-
 ## What Is Not Included
 
 - raw Binance downloads
 - processed parquet tables
 - trained model checkpoints
 - large experiment output trees
-- submission-only extras such as cover letters and title pages
 
-The repository is intended to stay focused on the code and manuscript needed to understand and reproduce the paper.
+The repository is intended to stay focused on the code and experiment assets needed to reproduce the workflow.

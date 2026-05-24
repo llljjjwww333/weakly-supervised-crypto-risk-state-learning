@@ -134,6 +134,6 @@ if !FOUND! equ !EXPECTED! (
 )
 
 echo.
-echo 下一步: 运行 scripts\compile_paper.bat 或 scripts\compile_paper.sh 编译论文
+echo 图像已生成到 figures\main
 echo.
 pause

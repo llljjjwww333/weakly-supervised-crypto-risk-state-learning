@@ -162,7 +162,7 @@ def build_report(
             "## Scope",
             "- Label source: `data/labels_improved/default/*USDT_labels.parquet`",
             "- Window source: `data/processed/windows/1h/*_win48.parquet`",
-            "- Splits audited here follow the paper default chronology: train up to 2023-12-31, validation 2024-01-01 to 2024-12-31, test 2025-01-01 onward.",
+            "- Splits audited here follow the default chronology: train up to 2023-12-31, validation 2024-01-01 to 2024-12-31, test 2025-01-01 onward.",
             "",
             "## Bar Quality Summary",
             quality_table,

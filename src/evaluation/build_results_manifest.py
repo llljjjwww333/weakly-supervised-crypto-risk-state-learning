@@ -232,7 +232,7 @@ def build_core_specs() -> list[ExperimentSpec]:
             stability_path="experiments/revision/histgb_btc/stability.csv",
             script_name="src/models/baselines/run_histgb.py; src/evaluation/evaluate_classification.py; src/evaluation/evaluate_stability.py",
             output_file="experiments/revision/histgb_btc/eval/classification_metrics.csv; experiments/revision/histgb_btc/stability.csv",
-            notes="Semantic significance omitted in manuscript because raw path is too switch-heavy for audit comparison.",
+            notes="Semantic significance omitted from the release summary because the raw path is too switch-heavy for audit comparison.",
         ),
         ExperimentSpec(
             experiment_id="btc_histgb_postproc_default",
